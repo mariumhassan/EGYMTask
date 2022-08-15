@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "136021DC-A1B3-4BFC-9DB7-D92082B3FF84"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64F59F5B-16F6-4897-AA8A-D99189B699C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EGYMTests/EGYMTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64F59F5B-16F6-4897-AA8A-D99189B699C6 - d181c21ded13a99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Result&lt;Swift.Dictionary&lt;Swift.Int, Swift.Array&lt;EGYM.MainStoryListModel&gt;&gt;, Swift.Error&gt;&gt;) -&gt; () in EGYMTests.EGYMTests.testExample() throws -&gt; ()"
+                  moduleName = "EGYMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariumhassan/Desktop/EGYM/EGYMTests/EGYMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "64F59F5B-16F6-4897-AA8A-D99189B699C6 - d181c21ded13adb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Result&lt;Swift.Dictionary&lt;Swift.Int, Swift.Array&lt;EGYM.MainStoryListModel&gt;&gt;, Swift.Error&gt;&gt;) -&gt; () in EGYMTests.EGYMTests.testExample() throws -&gt; ()"
+                  moduleName = "EGYMTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariumhassan/Desktop/EGYM/EGYMTests/EGYMTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,6 @@
+framework module Pods_EGYM {
+  umbrella header "Pods-EGYM-umbrella.h"
+
+  export *
+  module * { export * }
+}
